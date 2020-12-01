@@ -109,3 +109,9 @@ footer .social{
     font-size: 15px;
     color: #2D394A;
 }
+.social i{
+    transition: 0.2s linear;
+}
+.social a:hover i{
+    transform: scale(1.3);
+}
